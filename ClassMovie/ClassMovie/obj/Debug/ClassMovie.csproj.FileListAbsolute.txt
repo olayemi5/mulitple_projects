@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\ClassMovie\ClassMovie\bin\Debug\ClassMovie.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\ClassMovie\ClassMovie\bin\Debug\ClassMovie.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ClassMovie\ClassMovie\bin\Debug\ClassMovie.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ClassMovie\ClassMovie\obj\Debug\ClassMovie.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\ClassMovie\ClassMovie\obj\Debug\ClassMovie.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ClassMovie\ClassMovie\obj\Debug\ClassMovie.pdb

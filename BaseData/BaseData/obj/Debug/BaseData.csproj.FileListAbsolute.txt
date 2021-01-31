@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\bin\Debug\BaseData.exe.config
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\bin\Debug\BaseData.exe
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\bin\Debug\BaseData.pdb
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\BaseData.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\BaseData_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\BaseData_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\BaseData.g.resources
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\BaseData.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\BaseData.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\BaseData.exe
+c:\users\user\documents\visual studio 2015\Projects\BaseData\BaseData\obj\Debug\BaseData.pdb

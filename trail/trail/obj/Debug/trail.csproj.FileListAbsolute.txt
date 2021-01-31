@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\trail\trail\bin\Debug\trail.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\trail\trail\bin\Debug\trail.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\trail\trail\bin\Debug\trail.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\trail\trail\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\trail\trail\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\trail\trail\obj\Debug\trail.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\trail\trail\obj\Debug\trail.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\trail\trail\obj\Debug\trail.csprojResolveAssemblyReference.cache

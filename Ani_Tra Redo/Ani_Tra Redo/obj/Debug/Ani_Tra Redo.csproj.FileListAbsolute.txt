@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ani_Tra Redo\Ani_Tra Redo\bin\Debug\Ani_Tra Redo.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ani_Tra Redo\Ani_Tra Redo\bin\Debug\Ani_Tra Redo.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ani_Tra Redo\Ani_Tra Redo\bin\Debug\Ani_Tra Redo.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ani_Tra Redo\Ani_Tra Redo\obj\Debug\Ani_Tra Redo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ani_Tra Redo\Ani_Tra Redo\obj\Debug\Ani_Tra Redo.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ani_Tra Redo\Ani_Tra Redo\obj\Debug\Ani_Tra Redo.pdb

@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\wax\wax\bin\Debug\wax.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\wax\wax\bin\Debug\wax.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\wax\wax\obj\Debug\wax.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\wax\wax\obj\Debug\wax.pdb

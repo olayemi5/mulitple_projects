@@ -1,0 +1,19 @@
+﻿<Window x:Class="CustomisedWindow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CustomisedWindow"
+        mc:Ignorable="d"
+        Icon="C:\Users\user\Downloads\Codicode-Smiley-Happy.ico"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <WrapPanel Margin="10" HorizontalAlignment="Center">
+            <Button Name="btnLoadFromFile" Margin="0,0,20,0" Click="BtnLoadFromFile_Click">Load from File...</Button>
+            <Button Name="btnLoadFromResource" Click="BtnLoadFromResource_Click">Load from Resource</Button>
+        </WrapPanel>
+        <Image Name="imgDynamic" Margin="10"  />
+        </StackPanel>
+
+    
+</Window>

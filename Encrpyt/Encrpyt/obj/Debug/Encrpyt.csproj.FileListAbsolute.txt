@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Encrpyt\Encrpyt\bin\Debug\Encrpyt.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Encrpyt\Encrpyt\bin\Debug\Encrpyt.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Encrpyt\Encrpyt\bin\Debug\Encrpyt.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Encrpyt\Encrpyt\obj\Debug\Encrpyt.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Encrpyt\Encrpyt\obj\Debug\Encrpyt.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Encrpyt\Encrpyt\obj\Debug\Encrpyt.pdb

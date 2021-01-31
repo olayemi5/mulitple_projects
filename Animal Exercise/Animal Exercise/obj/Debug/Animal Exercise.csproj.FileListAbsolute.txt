@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Animal Exercise\Animal Exercise\bin\Debug\Animal Exercise.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Animal Exercise\Animal Exercise\bin\Debug\Animal Exercise.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Animal Exercise\Animal Exercise\bin\Debug\Animal Exercise.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Animal Exercise\Animal Exercise\obj\Debug\Animal Exercise.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Animal Exercise\Animal Exercise\obj\Debug\Animal Exercise.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Animal Exercise\Animal Exercise\obj\Debug\Animal Exercise.pdb

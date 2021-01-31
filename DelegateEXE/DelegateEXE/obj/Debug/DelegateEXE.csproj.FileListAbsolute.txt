@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\DelegateEXE\DelegateEXE\bin\Debug\DelegateEXE.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\DelegateEXE\DelegateEXE\bin\Debug\DelegateEXE.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\DelegateEXE\DelegateEXE\bin\Debug\DelegateEXE.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\DelegateEXE\DelegateEXE\obj\Debug\DelegateEXE.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\DelegateEXE\DelegateEXE\obj\Debug\DelegateEXE.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\DelegateEXE\DelegateEXE\obj\Debug\DelegateEXE.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Con1\Con1\bin\Debug\Con1.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Con1\Con1\bin\Debug\Con1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Con1\Con1\bin\Debug\Con1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Con1\Con1\obj\Debug\Con1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Con1\Con1\obj\Debug\Con1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Con1\Con1\obj\Debug\Con1.pdb

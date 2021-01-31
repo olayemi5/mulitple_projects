@@ -1,0 +1,125 @@
+﻿<Window x:Class="wpfBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfBasics"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="678" Width="900">
+    <Border Margin="10">
+        <StackPanel>
+            <!--Butttons -->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button Margin="0 0 10 0" Grid.Column="0" Content="Apply" />
+                <Button  Grid.Column="1" Content="Reset" />
+                <Button  Margin="10 0 0 0" Grid.Column="2" Content="Refresh" />
+            </Grid>
+
+            <TextBlock Text= "Pluse Properties" FontWeight="Bold" Margin="0 10 0 0"/>
+            <!-- Description -->
+            <TextBlock Text= "Description"  Margin="0 3 0 0"/>
+            <TextBox x:Name="Decription"  Padding="5" Margin="2,0,-2,0" />
+            <!-- Stcak and revision-->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- status-->
+                <StackPanel Grid.Column="0">
+                    <TextBlock x:Name="Status"  Text="Status"  />
+                    <TextBox x:Name="Status1"  Padding="2" Margin="0 0 10 0"  Background="#eee" />
+                </StackPanel>
+                <!-- Revision-->
+                <StackPanel Grid.Column="1">
+                    <TextBlock  Text="Revision"  />
+                    <TextBox Padding="2"  Background="#eee" />
+                </StackPanel>
+
+
+
+            </Grid>
+
+            <!-- Part NUmber-->
+            <TextBlock Text= "Part Number"   Margin="0 0 0 0"/>
+            <TextBox x:Name="part" Padding="5"  Background="#eee" />
+
+            <!--Raw Material-->
+            <TextBlock Text= "Raw Material" FontWeight="Bold"    Margin="0 10 0 13"/>
+
+            <!--Material SelectionBox-->
+            <TextBlock Text="Material" />
+            <TextBox x:Name="Material" Padding="4"   />
+
+            <!-- MAnufactureing Information-->
+            <TextBlock Text="Work centers" />
+
+            <!-- Combos-->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Column1-->
+                <StackPanel x:Name="checkbox" Grid.Column="0">
+                    <CheckBox  Content="Weld" />
+                    <CheckBox  Content="Assembly" />
+                    <CheckBox Content="Plasma" />
+                    <CheckBox Content="Laser" />
+                    <CheckBox Content="Frame" />
+                </StackPanel>
+                <!-- Column2-->
+                <StackPanel x:Name="checkbay" Grid.Column="1" Margin="0 0 0 0">
+                    <CheckBox Content="Lathe"/>
+                    <CheckBox Content="Drill" />
+                    <CheckBox Content="Fold" />
+                    <CheckBox Content="Roll" />
+                    <CheckBox Content="Saw" />
+                </StackPanel>
+
+
+
+            </Grid>
+
+
+
+            <!--Mass-->
+            <TextBlock Text="Mass" Margin="0 10 0 0" />
+            <TextBox x:Name="Mass" Padding="2" Background="#eee"  />
+
+            <!-- Finished-->
+            <TextBlock Text="Finished" Margin="0 10 0 0" />
+            <ComboBox x:Name="Finshed"  Padding="3"  SelectedIndex="0">
+                <ComboBoxItem>Painting</ComboBoxItem>
+                <ComboBoxItem>Cleaning</ComboBoxItem>
+                <ComboBoxItem>Washing</ComboBoxItem>
+                <ComboBoxItem>Baking</ComboBoxItem>
+            </ComboBox>
+
+            <!--Purchased Infomation-->
+            <TextBlock Text="Purchased Infomation" Margin="0 10 0 0" />
+            <TextBlock Text="Manufactureing Infomation" FontWeight="Bold" Margin="0 13 0 10" />
+            <ComboBox x:Name="Info" Padding="3" SelectedIndex="0" >
+                <ComboBoxItem>Rubber</ComboBoxItem>
+                <ComboBoxItem>Paint</ComboBoxItem>
+                <ComboBoxItem>Brush</ComboBoxItem>
+                <ComboBoxItem>Lether</ComboBoxItem>
+            </ComboBox>
+
+            <!--Supplier Name-->
+            <TextBlock Text="Supplier's Name" Margin="0 10 0 0" />
+            <TextBox x:Name="SuplierName" Padding="2"   />
+
+            <Button x:Name="Save" Margin="0 9 0 0" Padding="5" Foreground="Green" FontWeight="Bold" Click="Button_Click">SAVE</Button>
+
+
+        </StackPanel>
+    </Border>
+</Window>

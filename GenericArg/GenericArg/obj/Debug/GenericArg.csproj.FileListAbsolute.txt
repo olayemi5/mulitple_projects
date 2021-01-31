@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\GenericArg\GenericArg\bin\Debug\GenericArg.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\GenericArg\GenericArg\bin\Debug\GenericArg.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\GenericArg\GenericArg\bin\Debug\GenericArg.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\GenericArg\GenericArg\obj\Debug\GenericArg.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\GenericArg\GenericArg\obj\Debug\GenericArg.pdb

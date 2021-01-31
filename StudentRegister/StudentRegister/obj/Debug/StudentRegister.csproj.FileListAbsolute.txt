@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe.config
+c:\users\user\documents\visual studio 2015\Projects\StudentRegister\StudentRegister\bin\Debug\StudentInfo.mdf
+c:\users\user\documents\visual studio 2015\Projects\StudentRegister\StudentRegister\bin\Debug\StudentInfo_log.ldf
+c:\users\user\documents\visual studio 2015\Projects\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe
+c:\users\user\documents\visual studio 2015\Projects\StudentRegister\StudentRegister\bin\Debug\StudentRegister.pdb
+c:\users\user\documents\visual studio 2015\Projects\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\StudentRegister\StudentRegister\obj\Debug\StudentRegister.exe
+c:\users\user\documents\visual studio 2015\Projects\StudentRegister\StudentRegister\obj\Debug\StudentRegister.pdb
+E:\Console\StudentRegister\StudentRegister\bin\Debug\StudentInfo.mdf
+E:\Console\StudentRegister\StudentRegister\bin\Debug\StudentInfo_log.ldf
+E:\Console\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe.config
+E:\Console\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe
+E:\Console\StudentRegister\StudentRegister\bin\Debug\StudentRegister.pdb
+E:\Console\StudentRegister\StudentRegister\bin\Debug\EntityFramework.dll
+E:\Console\StudentRegister\StudentRegister\bin\Debug\EntityFramework.SqlServer.dll
+E:\Console\StudentRegister\StudentRegister\bin\Debug\EntityFramework.xml
+E:\Console\StudentRegister\StudentRegister\bin\Debug\EntityFramework.SqlServer.xml
+E:\Console\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csprojAssemblyReference.cache
+E:\Console\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.CoreCompileInputs.cache
+E:\Console\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.CopyComplete
+E:\Console\StudentRegister\StudentRegister\obj\Debug\StudentRegister.exe
+E:\Console\StudentRegister\StudentRegister\obj\Debug\StudentRegister.pdb

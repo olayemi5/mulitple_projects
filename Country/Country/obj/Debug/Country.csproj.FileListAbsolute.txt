@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Country\Country\bin\Debug\Country.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Country\Country\bin\Debug\Country.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Country\Country\bin\Debug\Country.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Country\Country\obj\Debug\Country.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Country\Country\obj\Debug\Country.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Country\Country\obj\Debug\Country.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\kIM\kIM\bin\Debug\kIM.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\kIM\kIM\bin\Debug\kIM.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\kIM\kIM\bin\Debug\kIM.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\kIM\kIM\obj\Debug\kIM.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\kIM\kIM\obj\Debug\kIM.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\kIM\kIM\obj\Debug\kIM.pdb

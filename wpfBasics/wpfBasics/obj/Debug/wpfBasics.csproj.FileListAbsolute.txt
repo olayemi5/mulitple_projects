@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\bin\Debug\wpfBasics.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\bin\Debug\wpfBasics.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\bin\Debug\wpfBasics.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\wpfBasics_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\wpfBasics_MarkupCompile.lref
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\wpfBasics.g.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\wpfBasics.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\wpfBasics.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\wpfBasics.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\wpfBasics.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\wpfBasics\wpfBasics\obj\Debug\wpfBasics.csprojResolveAssemblyReference.cache

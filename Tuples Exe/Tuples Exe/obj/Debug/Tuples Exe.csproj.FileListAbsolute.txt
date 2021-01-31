@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tuples Exe\Tuples Exe\bin\Debug\Tuples Exe.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tuples Exe\Tuples Exe\bin\Debug\Tuples Exe.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tuples Exe\Tuples Exe\bin\Debug\Tuples Exe.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tuples Exe\Tuples Exe\obj\Debug\Tuples Exe.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tuples Exe\Tuples Exe\obj\Debug\Tuples Exe.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tuples Exe\Tuples Exe\obj\Debug\Tuples Exe.pdb

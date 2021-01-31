@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Marvel1\Marvel1\bin\Debug\Marvel1.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Marvel1\Marvel1\bin\Debug\Marvel1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Marvel1\Marvel1\bin\Debug\Marvel1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Marvel1\Marvel1\obj\Debug\Marvel1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Marvel1\Marvel1\obj\Debug\Marvel1.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Marvel1\Marvel1\obj\Debug\Marvel1.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Marvel1\Marvel1\obj\Debug\Marvel1.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Marvel1\Marvel1\obj\Debug\Marvel1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Marvel1\Marvel1\obj\Debug\Marvel1.pdb

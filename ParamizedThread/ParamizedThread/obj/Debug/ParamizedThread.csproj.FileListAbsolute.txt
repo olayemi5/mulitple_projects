@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\ParamizedThread\ParamizedThread\bin\Debug\ParamizedThread.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\ParamizedThread\ParamizedThread\bin\Debug\ParamizedThread.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ParamizedThread\ParamizedThread\bin\Debug\ParamizedThread.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ParamizedThread\ParamizedThread\obj\Debug\ParamizedThread.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\ParamizedThread\ParamizedThread\obj\Debug\ParamizedThread.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ParamizedThread\ParamizedThread\obj\Debug\ParamizedThread.pdb

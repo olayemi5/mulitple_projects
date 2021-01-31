@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Solar\Solar\bin\Debug\Solar.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Solar\Solar\bin\Debug\Solar.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Solar\Solar\bin\Debug\Solar.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Solar\Solar\obj\Debug\Solar.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Solar\Solar\obj\Debug\Solar.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Solar\Solar\obj\Debug\Solar.pdb

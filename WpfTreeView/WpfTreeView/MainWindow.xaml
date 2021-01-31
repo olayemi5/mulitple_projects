@@ -1,0 +1,69 @@
+﻿<Window x:Class="WpfTreeView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTreeView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="10">
+        <TreeView>
+            <TreeViewItem Header="Merlin" IsExpanded="True">
+                <TreeView>
+                    <TreeViewItem Header="Series One" IsExpanded="True">
+                        <TreeViewItem Header="The Strange things" />
+                        <TreeViewItem Header="The Quest" />
+                    </TreeViewItem>
+                </TreeView>
+                <TreeView>
+                    <TreeViewItem Header="Series Two" IsExpanded="True">
+                        <TreeViewItem Header="The Escape things" />
+                        <TreeViewItem Header="The Ladder" />
+                    </TreeViewItem>
+                </TreeView>
+            </TreeViewItem>
+
+            <TreeViewItem IsExpanded="True" Width="497" >
+                <TreeViewItem.Header>
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="WpfTutorialSamples;component/Images/bullet_blue.png" />
+                    <TextBlock Text="Meg" />
+                </StackPanel>
+                </TreeViewItem.Header>
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Level 2.1" Foreground="Blue" />
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Balance"  Foreground="Blue"/>
+                        </StackPanel>
+                    
+                    </TreeViewItem.Header>
+
+                </TreeViewItem>
+
+            </TreeViewItem>
+
+            <TreeViewItem Header="Ray">
+                <TreeViewItem Header="Bill" IsExpanded="True"/>
+                <TreeViewItem Header="Mouse" />
+
+            </TreeViewItem>
+
+          
+        </TreeView>
+
+    
+    
+    
+    
+    </Grid>
+
+
+
+</Window>

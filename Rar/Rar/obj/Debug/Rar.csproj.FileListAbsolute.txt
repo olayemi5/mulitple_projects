@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Rar\Rar\bin\Debug\Rar.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Rar\Rar\bin\Debug\Rar.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Rar\Rar\bin\Debug\Rar.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Rar\Rar\obj\Debug\Rar.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Rar\Rar\obj\Debug\Rar.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Rar\Rar\obj\Debug\Rar.pdb

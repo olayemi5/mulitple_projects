@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\African2020\African2020\bin\Debug\African2020.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\African2020\African2020\bin\Debug\African2020.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\African2020\African2020\bin\Debug\African2020.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\African2020\African2020\obj\Debug\African2020.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\African2020\African2020\obj\Debug\African2020.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\African2020\African2020\obj\Debug\African2020.csprojResolveAssemblyReference.cache

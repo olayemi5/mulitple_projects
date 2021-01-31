@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThreeOne\ThreeOne\bin\Debug\ThreeOne.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThreeOne\ThreeOne\bin\Debug\ThreeOne.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThreeOne\ThreeOne\bin\Debug\ThreeOne.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThreeOne\ThreeOne\obj\Debug\ThreeOne.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThreeOne\ThreeOne\obj\Debug\ThreeOne.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Value Tuples\Value Tuples\bin\Debug\Value Tuples.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Value Tuples\Value Tuples\bin\Debug\Value Tuples.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Value Tuples\Value Tuples\bin\Debug\Value Tuples.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Value Tuples\Value Tuples\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Value Tuples\Value Tuples\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Value Tuples\Value Tuples\obj\Debug\Value Tuples.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Value Tuples\Value Tuples\obj\Debug\Value Tuples.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Value Tuples\Value Tuples\obj\Debug\Value Tuples.csprojResolveAssemblyReference.cache

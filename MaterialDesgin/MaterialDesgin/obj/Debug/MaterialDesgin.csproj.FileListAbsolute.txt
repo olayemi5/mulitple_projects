@@ -1,0 +1,42 @@
+c:\users\user\documents\visual studio 2015\Projects\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesgin.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesgin.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesgin.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin_MarkupCompile.lref
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\App.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.g.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.pdb
+E:\Console\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesgin.exe.config
+E:\Console\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesgin.exe
+E:\Console\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesgin.pdb
+E:\Console\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesignColors.dll
+E:\Console\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Console\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesignColors.pdb
+E:\Console\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Console\MaterialDesgin\MaterialDesgin\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.csprojAssemblyReference.cache
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MainWindow.g.cs
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\App.g.cs
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin_MarkupCompile.cache
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin_MarkupCompile.lref
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\App.baml
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MainWindow.baml
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.g.resources
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.Properties.Resources.resources
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.csproj.GenerateResource.cache
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.csproj.CoreCompileInputs.cache
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.csproj.CopyComplete
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.exe
+E:\Console\MaterialDesgin\MaterialDesgin\obj\Debug\MaterialDesgin.pdb

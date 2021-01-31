@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\LangFile\LangFile\bin\Debug\LangFile.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\LangFile\LangFile\bin\Debug\LangFile.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\LangFile\LangFile\bin\Debug\LangFile.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LangFile\LangFile\obj\Debug\LangFile.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\LangFile\LangFile\obj\Debug\LangFile.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\LangFile\LangFile\obj\Debug\LangFile.pdb

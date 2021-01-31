@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\LambaEx\LambaEx\bin\Debug\LambaEx.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\LambaEx\LambaEx\bin\Debug\LambaEx.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\LambaEx\LambaEx\bin\Debug\LambaEx.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LambaEx\LambaEx\obj\Debug\LambaEx.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\LambaEx\LambaEx\obj\Debug\LambaEx.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LambaEx\LambaEx\obj\Debug\LambaEx.csprojResolveAssemblyReference.cache

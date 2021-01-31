@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\action3\action3\bin\Debug\action3.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\action3\action3\bin\Debug\action3.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\action3\action3\bin\Debug\action3.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\action3\action3\obj\Debug\action3.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\action3\action3\obj\Debug\action3.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\action3\action3\obj\Debug\action3.pdb

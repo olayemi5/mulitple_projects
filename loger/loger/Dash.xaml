@@ -1,0 +1,243 @@
+﻿<Window x:Class="loger.Dash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:loger"
+        mc:Ignorable="d"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Dash" Height="600" Width="1000" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF3580BF">
+        <Grid Background="WhiteSmoke" Margin="306,68,-306, 0" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="46"/>
+                <RowDefinition Height="42*"/>
+                <RowDefinition Height="176*"/>
+                <RowDefinition Height="175*"/>
+                <RowDefinition Height="153*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="122*"/>
+                <ColumnDefinition Width="121*"/>
+                <ColumnDefinition Width="98*"/>
+                <ColumnDefinition Width="155*"/>
+
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Margin="5" Grid.Row="0" >
+                <Button BorderBrush="{x:Null}" x:Name="CloseMenu" HorizontalAlignment="Left" Margin="10 0 0 0">
+                    <Button.Background>
+                        <ImageBrush ImageSource="image/menu.png" Stretch="Uniform" />
+                    </Button.Background>
+                </Button>
+                <Button x:Name="OpenMenu" BorderBrush="{x:Null}" HorizontalAlignment="Left" Margin="10 0 0 0">
+                    <Button.Background>
+                        <ImageBrush ImageSource="image/menu.png" Stretch="Uniform" />
+                    </Button.Background>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="0" Margin="5" Grid.Row="1" >
+                <TextBlock Text="PHOTOS" VerticalAlignment="Center" HorizontalAlignment="Left" FontWeight="ExtraBlack" FontSize="25" Foreground="#FF3580BF" Height="28" Margin="0,10,0,-5" Width="140" />
+            </Grid>
+            <Grid Grid.Column="0" Margin="5"  Grid.Row="2" >
+                <Grid.Effect>
+                    <DropShadowEffect BlurRadius="20" Color="BlanchedAlmond" ShadowDepth="1" />
+                </Grid.Effect>
+                <Image Source="image/tour3.jpg" Stretch="UniformToFill" />
+                <Grid HorizontalAlignment="Left" Height="26" Margin="153,140,0,0" VerticalAlignment="Top" Width="31" Background="WhiteSmoke">
+                    <Image HorizontalAlignment="Left" Margin="4,4,0,-1" Width="24" Source="image/white-heart.png"/>
+                </Grid>
+                <TextBlock HorizontalAlignment="Left" FontSize="17"  FontWeight="ExtraBlack" Foreground="#FF3580BF" Height="32" Margin="189,146,0,-6" TextWrapping="Wrap" Text="2.1K" VerticalAlignment="Top" Width="45"/>
+
+            </Grid>
+            <Grid Grid.Column="1" Grid.Row="2" Margin="5" >
+                <Grid.Effect>
+                    <DropShadowEffect BlurRadius="20" Color="BlanchedAlmond" ShadowDepth="1" />
+                </Grid.Effect>
+                <Image Source="image/tour1.jpg" Stretch="UniformToFill" />
+                <Grid HorizontalAlignment="Left" Height="26" Margin="153,140,0,0" VerticalAlignment="Top" Width="31" Background="WhiteSmoke">
+                    <Image HorizontalAlignment="Left" Margin="4,4,0,-1" Width="24" Source="image/white-heart.png"/>
+                </Grid>
+                <TextBlock HorizontalAlignment="Left" FontSize="17"  FontWeight="ExtraBlack" Foreground="#FF3580BF" Height="32" Margin="189,146,0,-6" TextWrapping="Wrap" Text="2.1K" VerticalAlignment="Top" Width="45"/>
+            </Grid>
+            <Grid Grid.Column="2" Margin="5" Grid.Row="2" >
+                <Grid.Effect>
+                    <DropShadowEffect BlurRadius="20" Color="BlanchedAlmond" ShadowDepth="1" />
+                </Grid.Effect>
+                <Image Source="image/tour2.jpg" Stretch="UniformToFill" />
+                <Grid HorizontalAlignment="Left" Height="26" Margin="105,140,0,0" VerticalAlignment="Top" Width="31" Background="WhiteSmoke">
+                    <Image HorizontalAlignment="Left" Margin="4,4,0,-1" Width="24" Source="image/white-heart.png"/>
+                </Grid>
+                <TextBlock HorizontalAlignment="Left" FontSize="17"  FontWeight="ExtraBlack" Foreground="#FF3580BF" Height="32" Margin="137,146,0,-6" TextWrapping="Wrap" Text="2.1K" VerticalAlignment="Top" Width="45" RenderTransformOrigin="-0.567,0.359"/>
+            </Grid>
+            <Grid Grid.Column="0" Margin="5" Grid.Row="3" >
+                <Grid.Effect>
+                    <DropShadowEffect BlurRadius="20" Color="BlanchedAlmond" ShadowDepth="1" />
+                </Grid.Effect>
+                <Image Source="image/tour5.jpg" Stretch="UniformToFill" />
+                <Grid HorizontalAlignment="Left" Height="26" Margin="153,140,0,0" VerticalAlignment="Top" Width="31" Background="WhiteSmoke">
+                    <Image HorizontalAlignment="Left" Margin="4,4,0,-1" Width="24" Source="image/white-heart.png"/>
+                </Grid>
+                <TextBlock HorizontalAlignment="Left" FontSize="17"  FontWeight="ExtraBlack" Foreground="#FF3580BF" Height="32" Margin="189,146,0,-6" TextWrapping="Wrap" Text="2.1K" VerticalAlignment="Top" Width="45"/>
+            </Grid>
+            <Grid Grid.Column="1" Grid.Row="3" Margin="5" >
+                <Grid.Effect>
+                    <DropShadowEffect BlurRadius="20" Color="BlanchedAlmond" ShadowDepth="1" />
+                </Grid.Effect>
+                <Image Source="image/tour4.jpg" Stretch="UniformToFill" />
+                <Grid HorizontalAlignment="Left" Height="26" Margin="153,140,0,0" VerticalAlignment="Top" Width="31" Background="WhiteSmoke">
+                    <Image HorizontalAlignment="Left" Margin="4,4,0,-1" Width="24" Source="image/white-heart.png"/>
+                </Grid>
+                <TextBlock HorizontalAlignment="Left" FontSize="17"  FontWeight="ExtraBlack" Foreground="#FF3580BF" Height="32" Margin="189,146,0,-6" TextWrapping="Wrap" Text="2.1K" VerticalAlignment="Top" Width="45"/>
+            </Grid>
+            <Grid Grid.Column="2" Margin="5" Grid.Row="3" >
+                <Grid.Effect>
+                    <DropShadowEffect BlurRadius="20" Color="BlanchedAlmond" ShadowDepth="1" />
+                </Grid.Effect>
+                <Image Source="image/tour8.jpg" Stretch="UniformToFill" />
+            </Grid>
+            <Grid Grid.Column="0" Grid.Row="4" Margin="5" >
+                <Grid.Effect>
+                    <DropShadowEffect BlurRadius="20" Color="BlanchedAlmond" ShadowDepth="1" />
+                </Grid.Effect>
+                <Image Source="image/tour6.jpg" Stretch="UniformToFill" />
+                <Grid HorizontalAlignment="Left" Height="26" Margin="153,140,0,0" VerticalAlignment="Top" Width="31" Background="WhiteSmoke">
+                    <Image HorizontalAlignment="Left" Margin="4,4,0,-1" Width="24" Source="image/white-heart.png"/>
+                </Grid>
+                <TextBlock HorizontalAlignment="Left" FontSize="17"  FontWeight="ExtraBlack" Foreground="#FF3580BF" Height="32" Margin="189,146,0,-6" TextWrapping="Wrap" Text="2.1K" VerticalAlignment="Top" Width="45"/>
+            </Grid>
+            <Grid Grid.Column="1" Grid.Row="4" Margin="5" >
+                <Grid.Effect>
+                    <DropShadowEffect BlurRadius="20" Color="BlanchedAlmond" ShadowDepth="1" />
+                </Grid.Effect>
+                <Image Source="image/tour7.jpg" Stretch="UniformToFill" />
+                <Grid HorizontalAlignment="Left" Height="26" Margin="153,140,0,0" VerticalAlignment="Top" Width="31" Background="WhiteSmoke">
+                    <Image HorizontalAlignment="Left" Margin="4,4,0,-1" Width="24" Source="image/white-heart.png"/>
+                </Grid>
+                <TextBlock HorizontalAlignment="Left" FontSize="17"  FontWeight="ExtraBlack" Foreground="#FF3580BF" Height="32" Margin="189,146,0,-6" TextWrapping="Wrap" Text="2.1K" VerticalAlignment="Top" Width="45"/>
+            </Grid>
+            <Grid Grid.Column="2" Grid.Row="4"  Margin="5">
+                <Grid.Effect>
+                    <DropShadowEffect BlurRadius="20" Color="BlanchedAlmond" ShadowDepth="1" />
+                </Grid.Effect>
+                <Image Source="image/tour9.jpg" Stretch="UniformToFill" />
+            </Grid>
+
+
+            <Grid Grid.ColumnSpan="4" Grid.RowSpan="5" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="250*"/>
+                    <ColumnDefinition Width="84*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Background="#FF3580BF" Grid.ColumnSpan="2" Margin="682,0,0,0">
+
+
+                    <Image Height="150" VerticalAlignment="Top" Source="image/ce.jpg" Stretch="Fill" />
+                    <Ellipse Height="157" Width="144" VerticalAlignment="Top" HorizontalAlignment="Right"  Margin="-908,-13,1074,0" RenderTransformOrigin="-6.767,-0.048">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="image/girl.jpg" />
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    <TextBlock HorizontalAlignment="Left" Height="54" FontWeight="ExtraBold" Margin="11,90,0,0" TextWrapping="Wrap" Text="Janny" VerticalAlignment="Top" Width="109" FontSize="36" FontFamily="Script MT Bold"/>
+                    <Grid HorizontalAlignment="Left" Height="95" Margin="10,258,0,0" VerticalAlignment="Top" Width="282" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Column="0" Grid.Row="0">
+                            <TextBlock Text="FOLLOWERS" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="ExtraBold" Foreground="WhiteSmoke" FontFamily="Verdana" Margin="-10,10,10,24"/>
+                        </Grid>
+                        <Grid Grid.Column="0" Grid.Row="1">
+                            <TextBlock Text="1.5K" FontSize="20" VerticalAlignment="Center" FontWeight="ExtraBold" Foreground="WhiteSmoke" FontFamily="Verdana" Margin="34,16,-34,16"/>
+                        </Grid>
+                        <Grid Grid.Column="1" Grid.Row="0">
+                            <TextBlock Text="FOLLOWING" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="ExtraBold" Foreground="WhiteSmoke" FontFamily="Verdana" Margin="0,8,0,20"/>
+                        </Grid>
+                        <Grid Grid.Column="1" Grid.Row="1">
+                            <TextBlock Text="2.3K" FontSize="20" VerticalAlignment="Center" FontWeight="ExtraBold" Foreground="WhiteSmoke" FontFamily="Verdana" Margin="24,16,-24,16"/>
+                        </Grid>
+                    </Grid>
+                    <Grid HorizontalAlignment="Left"  Height="100" Margin="0,360,0,0" VerticalAlignment="Top" Width="302" OpacityMask="#FFDA1D1D">
+                        <TextBlock TextWrapping="Wrap" Padding="10"  Margin="2" Foreground="WhiteSmoke" FontWeight="Regular"><Run Text="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"/></TextBlock>
+                    </Grid>
+                    <Ellipse Height="138" Width="126" VerticalAlignment="Top" HorizontalAlignment="Right"  Margin="0,52,64,0" RenderTransformOrigin="-6.767,-0.048">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="image/girl.jpg" />
+                        </Ellipse.Fill>
+                    </Ellipse>
+                </Grid>
+
+            </Grid>
+
+            <StackPanel Height="40" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right" Grid.Column="3" Width="90">
+                <Button Margin="0,4" BorderBrush="{x:Null}">
+                    <Button.Background>
+                        <ImageBrush ImageSource="image/setting.png" />
+                    </Button.Background>
+                </Button>
+                <Button x:Name="PowerOff" Click="PowerOff_Click" Margin="13,4" BorderBrush="{x:Null}">
+                    <Button.Background>
+                        <ImageBrush ImageSource="image/turn-off.png" />
+                    </Button.Background>
+                </Button>
+
+                <!--<Button Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" x:Name="Off" Margin="13 0 0 0" Background="{x:Null}" BorderBrush="{x:Null}">
+                <Button.Background>
+                    <ImageBrush ImageSource="image/turn-off.png" />
+                </Button.Background>
+            </Button>-->
+
+
+            </StackPanel>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="166" Margin="10,50,0,0" VerticalAlignment="Top" Width="276">
+            <Button  HorizontalAlignment="Left" VerticalAlignment="Top" Width="44" RenderTransformOrigin="0.531,0.362" Margin="8,82,0,0" Height="40">
+                <Button.Background>
+                    <ImageBrush ImageSource="image/setting.png" />
+                </Button.Background>
+            </Button>
+            <Button  HorizontalAlignment="Left" VerticalAlignment="Top" Width="44" RenderTransformOrigin="5.063,0.55" Margin="229,80,0,0" Height="40">
+                <Button.Background>
+                    <ImageBrush ImageSource="image/information.png" />
+                </Button.Background>
+            </Button>
+            <Button  HorizontalAlignment="Left" VerticalAlignment="Top" Width="44" RenderTransformOrigin="0.531,0.362" Margin="28,229,0,-103" Height="40">
+                <Button.Background>
+                    <ImageBrush ImageSource="image/menu.png" />
+                </Button.Background>
+            </Button>
+            <Button  HorizontalAlignment="Left" VerticalAlignment="Top" Width="44" RenderTransformOrigin="0.557,2.7" Margin="28,312,0,-186" Height="40">
+                <Button.Background>
+                    <ImageBrush ImageSource="image/turn-off.png" />
+                </Button.Background>
+            </Button>
+            <Button  HorizontalAlignment="Left" VerticalAlignment="Top" Width="44" RenderTransformOrigin="0.557,2.7" Margin="26,391,0,-265" Height="40">
+                <Button.Background>
+                    <ImageBrush ImageSource="image/information.png" />
+                </Button.Background>
+            </Button>
+            <Button  HorizontalAlignment="Left" VerticalAlignment="Top" Width="44" RenderTransformOrigin="0.557,2.7" Margin="28,467,0,-341" Height="40">
+                <Button.Background>
+                    <ImageBrush ImageSource="image/white-heart.png" />
+                </Button.Background>
+            </Button>
+
+        </Grid>
+        <TextBlock HorizontalAlignment="Left" Height="28" FontWeight="ExtraBold" FontSize="25" Margin="131,284,0,0" TextWrapping="Wrap" Text="Home" VerticalAlignment="Top" Width="81"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" FontWeight="ExtraBold" FontSize="25" Margin="131,374,0,0" TextWrapping="Wrap" Text="Search" VerticalAlignment="Top" Width="81" RenderTransformOrigin="0.426,3.429"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" FontWeight="ExtraBold" FontSize="25" Margin="131,455,0,0" TextWrapping="Wrap" Text="Facebook" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.426,3.429"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" FontWeight="ExtraBold" FontSize="25" Margin="131,524,0,0" TextWrapping="Wrap" Text="Skype" VerticalAlignment="Top" Width="81" RenderTransformOrigin="0.426,3.429"/>
+
+    </Grid>
+</Window>

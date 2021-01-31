@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\ConsoleConnect\ConsoleConnect\bin\Debug\ConsoleConnect.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConsoleConnect\ConsoleConnect\bin\Debug\Datas.mdf
+c:\users\user\documents\visual studio 2015\Projects\ConsoleConnect\ConsoleConnect\bin\Debug\Datas_log.ldf
+c:\users\user\documents\visual studio 2015\Projects\ConsoleConnect\ConsoleConnect\bin\Debug\ConsoleConnect.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleConnect\ConsoleConnect\bin\Debug\ConsoleConnect.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConsoleConnect\ConsoleConnect\obj\Debug\ConsoleConnect.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ConsoleConnect\ConsoleConnect\obj\Debug\ConsoleConnect.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleConnect\ConsoleConnect\obj\Debug\ConsoleConnect.pdb

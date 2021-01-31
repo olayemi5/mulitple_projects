@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\bin\Debug\MaterBoard.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\bin\Debug\MaterBoard.exe
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\bin\Debug\MaterBoard.pdb
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\MaterBoard.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\MaterBoard_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\MaterBoard_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\MaterBoard.g.resources
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\MaterBoard.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\MaterBoard.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\MaterBoard.exe
+c:\users\user\documents\visual studio 2015\Projects\MaterBoard\MaterBoard\obj\Debug\MaterBoard.pdb

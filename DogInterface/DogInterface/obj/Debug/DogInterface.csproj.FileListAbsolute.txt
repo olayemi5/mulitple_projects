@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\DogInterface\DogInterface\bin\Debug\DogInterface.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\DogInterface\DogInterface\bin\Debug\DogInterface.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\DogInterface\DogInterface\bin\Debug\DogInterface.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\DogInterface\DogInterface\obj\Debug\DogInterface.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\DogInterface\DogInterface\obj\Debug\DogInterface.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\DogInterface\DogInterface\obj\Debug\DogInterface.pdb

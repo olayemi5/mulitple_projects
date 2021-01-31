@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\bin\Debug\demo.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\bin\Debug\demo.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\bin\Debug\demo.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\bin\Debug\MySql.Data.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\obj\Debug\demo.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\demo\demo\obj\Debug\demo.pdb

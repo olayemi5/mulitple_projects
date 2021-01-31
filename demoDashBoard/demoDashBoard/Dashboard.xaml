@@ -1,0 +1,122 @@
+﻿<Window x:Class="demoDashBoard.Dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:demoDashBoard"
+        mc:Ignorable="d"
+        Title="Dashboard" Height="700" Width="1265" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="700" VerticalAlignment="Top" Width="170" RenderTransformOrigin="-2.311,-1.058" Background="#D94141">
+            <Grid HorizontalAlignment="Left" Background="#FFFF3261" Height="6" Margin="170,30,-554,0" VerticalAlignment="Top" Width="554" RenderTransformOrigin="0.5,0.5">
+                <Grid.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Grid.RenderTransform>
+            </Grid>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="49" Margin="123,0,-56,0" VerticalAlignment="Top" Width="1142" RenderTransformOrigin="-0.148,-2.034" Background="#D94141" MouseLeftButtonDown="Grid_">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="11*"/>
+                <RowDefinition Height="14*"/>
+            </Grid.RowDefinitions>
+            <Grid HorizontalAlignment="Left" Height="13" Background="#301515" Margin="47,27,0,-13" Grid.Row="1" VerticalAlignment="Top" Width="1095">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="633*"/>
+                    <ColumnDefinition Width="268*"/>
+                    <ColumnDefinition Width="194*"/>
+                </Grid.ColumnDefinitions>
+            </Grid>
+            <Button HorizontalAlignment="Left" Height="33" Margin="1035,10,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="44">
+                <Button Content="X" Padding="0" Foreground="White" FontWeight="ExtraBold" FontSize="20" Background="#833D3D" HorizontalAlignment="Left" Height="29" VerticalAlignment="Top" Width="34" RenderTransformOrigin="-4.831,0.431" Click="Button_Click_1"/>
+            </Button>
+            <Button HorizontalAlignment="Left" Height="34" Background="Transparent" Margin="900,10,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="41">
+                <Image Source="images\notification.png" Stretch="Fill" Width="31" Height="29" />
+            </Button>
+            <Button  Background="Transparent" HorizontalAlignment="Left" Height="34" Margin="816,8,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="44" RenderTransformOrigin="-3.102,0.69">
+                <Image Source="images\settings.png" Stretch="Fill" Height="29" Width="28" />
+            </Button>
+            <Button Background="Transparent"  HorizontalAlignment="Left" Height="29" Margin="734,10,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="45" RenderTransformOrigin="-2.568,0.483">
+                <Image Source="images\browser.jpg" Stretch="Fill" Width="29" />
+            </Button>
+        </Grid>
+        <Button Content="Home" FontWeight="ExtraBlack" Foreground="WhiteSmoke" FontSize="18" FontFamily="arial rounded" BorderBrush="Transparent" Background="Transparent" HorizontalAlignment="Left" Height="26" Margin="66,266,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="-1.255,0.975" Click="Button_Click"/>
+        <Image HorizontalAlignment="Left" Source="images\dash_img\home.png" Height="30" Margin="16,261,0,0" VerticalAlignment="Top" Width="36" RenderTransformOrigin="-2.358,-1.251">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.04"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image HorizontalAlignment="Left" Source="images/dash_img/Profile.png" Height="28" Margin="18,328,0,0" VerticalAlignment="Top" Width="36" RenderTransformOrigin="-2.358,-1.251">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.04"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button Content="Profile" FontSize="18" FontFamily="arial rounded" BorderBrush="Transparent" Background="Transparent" HorizontalAlignment="Left" Height="28" Margin="70,334,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="-1.255,0.975" Click="Button_Click"/>
+        <Image HorizontalAlignment="Left" Source="images/dash_img/friends.png" Height="28" Margin="20,395,0,0" VerticalAlignment="Top" Width="35" RenderTransformOrigin="-2.358,-1.251">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.04"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button Content="Friends" FontSize="18" FontFamily="arial rounded" BorderBrush="Transparent" Background="Transparent" HorizontalAlignment="Left" Height="28" Margin="70,400,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="-1.255,0.975" Click="Button_Click"/>
+        <Image HorizontalAlignment="Left" Source="images/dash_img/Andr.png" Height="30" Margin="15,462,0,0" VerticalAlignment="Top" Width="35" RenderTransformOrigin="-2.358,-1.251">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.04"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button Content="Andriod" FontSize="18" FontFamily="arial rounded" BorderBrush="Transparent" Background="Transparent" HorizontalAlignment="Left" Height="30" Margin="68,460,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="-1.255,0.975" Click="Button_Click"/>
+        <Image HorizontalAlignment="Left" Source="images/dash_img/Pic.jpg" Height="112" Margin="23,9,0,0" VerticalAlignment="Top" Width="125" RenderTransformOrigin="-2.358,-1.251">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.04"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <TextBlock HorizontalAlignment="Left" Height="33" Margin="20,122,0,0" FontSize="30" FontFamily="Script mt" TextWrapping="Wrap" Text="Sully Char" VerticalAlignment="Top" Width="150" RenderTransformOrigin="-2.547,-3.863"/>
+        <TextBlock HorizontalAlignment="Left" Height="41" Margin="36,151,0,0" FontSize="20" FontFamily="Script mt" TextWrapping="Wrap" Text="New User" VerticalAlignment="Top" Width="106" RenderTransformOrigin="-2.547,-3.863"/>
+        <Grid HorizontalAlignment="Left" Height="129" Background="#DABABA" Margin="170,67,-56,0" VerticalAlignment="Top" Width="1095">
+            <TextBlock HorizontalAlignment="Left" Foreground="White" Height="84" Margin="15,-12,0,0" FontFamily="script mt" TextWrapping="Wrap" Text="Dentist Health Academy" FontSize="80" VerticalAlignment="Top" Width="797"/>
+            <Image HorizontalAlignment="Left" Source="images\log.jpg" Stretch="Fill" Height="111" Margin="953,6,0,0" VerticalAlignment="Top" Width="122"/>
+        </Grid>
+        <Frame x:Name="Main" Height="504" Background="#E16565"    Margin="170,196,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.517,1.975"/>
+        <TextBlock HorizontalAlignment="Left" Height="51" Foreground="#8E3939" FontSize="40" FontFamily="script mt"  FontWeight="Heavy" Margin="374,140,0,0" TextWrapping="Wrap" Text="Your Health, Your wealth" VerticalAlignment="Top" Width="446" RenderTransformOrigin="0.583,-1.396"/>
+        <Image HorizontalAlignment="Left" Source="images/user.jpg" Height="30" Margin="17,523,0,0" VerticalAlignment="Top" Width="36" RenderTransformOrigin="-2.358,-1.251">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.04"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button Content="Add" FontSize="18" FontFamily="arial rounded" BorderBrush="Transparent" Background="Transparent" HorizontalAlignment="Left" Height="30" Margin="68,527,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="-1.255,0.975" Click="Button_Click_Add"/>
+
+    </Grid>
+</Window>

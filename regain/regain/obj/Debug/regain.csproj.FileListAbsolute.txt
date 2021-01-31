@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\regain\regain\bin\Debug\regain.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\regain\regain\bin\Debug\regain.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\regain\regain\obj\Debug\regain.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\regain\regain\obj\Debug\regain.pdb
